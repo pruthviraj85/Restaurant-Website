@@ -1,4 +1,4 @@
-[Restaurant Website] (https://pruthviraj85.github.io/Restaurant-Website/)
+[Restaurant Website](https://pruthviraj85.github.io/Restaurant-Website/)
 
 Here's a detailed description for your Restaurant Website with emojis, features, and an engaging tone:
 
